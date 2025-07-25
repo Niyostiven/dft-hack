@@ -1,4 +1,4 @@
-# dfPredicting Hospital Readmission for Diabetic Patients
+#Predicting Hospital Readmission for Diabetic Patients
 Project Overview
 This project analyzes a dataset of diabetic patient encounters to predict whether a patient is likely to be readmitted to the hospital. The analysis involves data cleaning, exploratory data analysis, feature engineering, and the application of machine learning models to predict readmission. The goal is to identify key factors that contribute to hospital readmissions and build a model that can help healthcare providers improve patient outcomes.
 
